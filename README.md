@@ -1,3 +1,8 @@
-## Demo of age vs height data visualization using Howell dataset
-This demo shows you how to use GitHub.  Please make a pull request.
+# Demo of age vs height data visualization using Howell dataset
+
+This demo shows you how to use GitHub. Please make a pull request.
 What is pull request?
+
+## Questions
+
+1. What is the meaning of life?
